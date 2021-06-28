@@ -1,1 +1,15 @@
+body{
+    margin: 0;
+}
 
+.td-red, .lorem-red {
+    color: red;
+}
+
+.commodi-blue{
+    color: blue;
+}
+
+.sed-green{
+    color: green;
+}
